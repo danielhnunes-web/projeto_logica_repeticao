@@ -26,3 +26,9 @@ btnNum.addEventListener('click', (evt) =>{
 
     inputNum.value = ''
 })
+
+
+const inputFrase = document.querySelector('#Frase')
+const inputNumRepeticao = document.querySelector('#num-repeticao')
+const btnFrase = document.querySelector('#btn-frase')
+const divFrase = document.querySelector('#div-frase')
