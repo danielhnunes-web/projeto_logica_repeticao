@@ -34,7 +34,7 @@ const btnFrase = document.querySelector('#btn-frase')
 const divFrase = document.querySelector('#div-frase')
 
 
-btnFrase.addEventListener('click', (evt) => {
+btnFrase.addEventListener('click', () => {
     let frase = inputFrase.value
     let repeticoes = Number(inputNumRepeticao.value)
 
