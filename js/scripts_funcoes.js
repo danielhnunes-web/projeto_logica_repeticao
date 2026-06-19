@@ -1,3 +1,5 @@
+import { calculoPercentual } from "./scripts_calculos.js"
+
 // function mensagem(){
 //     console.log('Uma mensagem')
 // }
