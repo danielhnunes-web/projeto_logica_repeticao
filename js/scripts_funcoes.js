@@ -1,32 +1,32 @@
-function mensagem(){
-    console.log('Uma mensagem')
-}
+// function mensagem(){
+//     console.log('Uma mensagem')
+// }
 
-mensagem()
+// mensagem()
 
-function mensagemLinda(txt){
-    console.log(txt)
-}
+// function mensagemLinda(txt){
+//     console.log(txt)
+// }
 
-mensagemLinda('Brasil vai dar um pau no Haiti')
+// mensagemLinda('Brasil vai dar um pau no Haiti')
 
-function somaNumeros(num1, num2){
-    return num1 + num2
-}
+// function somaNumeros(num1, num2){
+//     return num1 + num2
+// }
 
-console.log('As soma dos números ', somaNumeros(10, 58))
+// console.log('As soma dos números ', somaNumeros(10, 58))
 
-const multiplicacao = function(num1, num2){
-    return num1 * num2
-}
+// const multiplicacao = function(num1, num2){
+//     return num1 * num2
+// }
 
-console.log(multiplicacao(64, 5))
+// console.log(multiplicacao(64, 5))
 
-const msgArrow = () => {
-    console.log('Outro mensagem na arrow function');
-}
+// const msgArrow = () => {
+//     console.log('Outro mensagem na arrow function');
+// }
 
-msgArrow()
+// msgArrow()
 
 const divNumSorteio = document.querySelector('#div-num-sorteio')
 
