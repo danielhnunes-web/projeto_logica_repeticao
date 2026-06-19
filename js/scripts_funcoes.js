@@ -64,3 +64,5 @@ const sorteio = setInterval(() => {
         numSorteado = 0
     }
 }, 2000)
+
+console.log('CALCULO DA FUNÇÃO calculoPercentual do ARQUIVO scripts_calculo.js ----> ', calculoPercentual(800))
